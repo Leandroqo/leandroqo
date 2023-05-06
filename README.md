@@ -1,5 +1,5 @@
 ### Hey there! 👋
-### I'm Leandro. I'm a Senior Software Engineer at Zup. 
+### I'm Leandro. I'm a Senior Software Engineer. 
 
 <!--
 **Leandroqo/leandroqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
